@@ -11,3 +11,4 @@
 
 - [ ] Evaluar posibilidad de hacer correr todo en azure
 
+- [ ] Hacer histograma de frecuencia de precios, que muestre la relacion entre distintos intervalos de precios y la cantidad de publicaciones de dichos precios
