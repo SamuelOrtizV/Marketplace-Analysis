@@ -1,7 +1,7 @@
 # Visión
-- [ ] Crear una herramienta que pueda analizar el mercado de segunda mano y que logre recopilar información para determinar ítems que puedan ser comprados y re-vendidos.
+- [ ] Crear una herramienta que pueda analizar el mercado de segunda mano y que logre recopilar información para determinar a qué precio vender un item o si hay una oportunidad de compra.
 
-# Ideas
+# Ideas Futuras
 - [ ] Poner valores aleatorios de descanso en diferentes puntos del código para evitar ser baneados por Meta
 - [ ] Creación de 2 Scripts. Uno para buscar e investigar precios (se ejecuta de forma "amplia"), y otro para investigar y buscar artículos que nos interesen (se ejecuta de forma "local").
 - [ ] El primer script tiene como finalidad reunir datos, tendrá como salida final un data frame, eventualmente se búscara generar una base de datos con ellos.
